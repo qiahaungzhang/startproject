@@ -5,5 +5,6 @@ public class TestProject {
 		System.out.println("Hello World!shshdhfhfh");
 		System.out.println("第二次计较");
 		System.out.println("dddd");
+		System.out.print("fuck"s);
 	}
 }
